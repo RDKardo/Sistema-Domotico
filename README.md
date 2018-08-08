@@ -1,2 +1,2 @@
 # Sistema-Domotico
-Monitoreo y control de sensores y válvulas.
+Monitoreo de sensores y control de electrováñvulas.
